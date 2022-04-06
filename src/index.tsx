@@ -4,7 +4,7 @@ import App from './App';
 
 import './services/firebase'
 
-ReactDOM.render(
+ReactDOM.render( 
   <React.StrictMode>
     <App />
   </React.StrictMode>,
